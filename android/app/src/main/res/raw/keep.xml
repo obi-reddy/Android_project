@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@raw/testting,@raw/tone2,@raw/knock_knock,
+    @raw/notification_sound,@raw/notification_sound2,@raw/cute_notification,
+    @raw/sms,@raw/notifacation"
+    />
