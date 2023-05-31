@@ -6,7 +6,7 @@ class UserModel{
   String? ph;
   String? image;
   String? id;
-  String? gender;
+  String? gender; 
 
   UserModel({this.image,this.id,this.gender,
       this.name, this.email, this.password, this.age, this.ph});
